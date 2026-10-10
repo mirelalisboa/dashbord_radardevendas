@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Radar de Vendas</title><desc id="desc">Hambúrguer estilizado dentro de um radar.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6c698d"/><stop offset="1" stop-color="#aa968a"/></linearGradient></defs>
+  <rect width="96" height="96" rx="25" fill="url(#bg)"/><path d="M18 52a30 30 0 0 1 60 0M24 52a24 24 0 0 1 48 0" fill="none" stroke="#d4d2d5" stroke-width="4" stroke-linecap="round" opacity=".8"/><path d="m48 52 19-14" fill="none" stroke="#bfafa6" stroke-width="4" stroke-linecap="round"/><circle cx="48" cy="52" r="5" fill="#aa968a" stroke="#d4d2d5" stroke-width="2"/><path d="M22 59h52c0 4-3 7-7 7H29c-4 0-7-3-7-7Z" fill="#d4d2d5"/><path d="M25 69h46c-2 5-6 8-12 8H37c-6 0-10-3-12-8Z" fill="#bfafa6"/><path d="M27 58c2-8 9-13 21-13s19 5 21 13Z" fill="#d4d2d5"/><path d="M34 52h2m8-3h2m8 0h2m8 3h2" stroke="#6c698d" stroke-width="3" stroke-linecap="round"/>
+</svg>

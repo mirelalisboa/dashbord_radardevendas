@@ -1,0 +1,201 @@
+id_venda,data,produto,categoria,regiao,quantidade,preco_unitario
+V001,2025-01-01,X-Burger,Clássico,Norte,1,24.90
+V002,2025-02-08,Smash Especial,Combo,Centro-Oeste,2,38.90
+V003,2025-03-15,Batata + Refri,Vegano,Sul,3,22.50
+V004,2025-04-22,Combo Família,Artesanal,Nordeste,4,69.90
+V005,2025-05-02,Veggie Burger,Clássico,Sudeste,1,29.90
+V006,2025-06-09,X-Salada,Combo,Norte,2,28.90
+V007,2025-07-16,Duplo Bacon,Vegano,Centro-Oeste,3,32.50
+V008,2025-08-23,X-Burger,Artesanal,Sul,4,24.90
+V009,2025-09-03,Smash Especial,Clássico,Nordeste,1,38.90
+V010,2025-10-10,Batata + Refri,Combo,Sudeste,2,22.50
+V011,2025-11-17,Combo Família,Vegano,Norte,3,69.90
+V012,2025-12-24,Veggie Burger,Artesanal,Centro-Oeste,4,29.90
+V013,2025-01-04,Combo Família,Artesanal,Sul,1,69.90
+V014,2025-02-11,Veggie Burger,Clássico,Nordeste,2,29.90
+V015,2025-03-18,X-Salada,Combo,Sudeste,3,28.90
+V016,2025-04-25,Duplo Bacon,Vegano,Norte,4,32.50
+V017,2025-05-05,X-Burger,Artesanal,Centro-Oeste,1,24.90
+V018,2025-06-12,Smash Especial,Clássico,Sul,2,38.90
+V019,2025-07-19,Batata + Refri,Combo,Nordeste,3,22.50
+V020,2025-08-26,Combo Família,Vegano,Sudeste,4,69.90
+V021,2025-09-06,Veggie Burger,Artesanal,Nordeste,1,29.90
+V022,2025-10-13,X-Salada,Clássico,Sudeste,2,28.90
+V023,2025-11-20,Duplo Bacon,Combo,Norte,3,32.50
+V024,2025-12-27,X-Burger,Vegano,Centro-Oeste,4,24.90
+V025,2025-01-07,Duplo Bacon,Vegano,Sul,1,32.50
+V026,2025-02-14,X-Burger,Artesanal,Nordeste,2,24.90
+V027,2025-03-21,Smash Especial,Clássico,Sudeste,3,38.90
+V028,2025-04-01,Batata + Refri,Combo,Norte,4,22.50
+V029,2025-05-08,Combo Família,Vegano,Centro-Oeste,1,69.90
+V030,2025-06-15,Veggie Burger,Artesanal,Sul,2,29.90
+V031,2025-07-22,X-Salada,Clássico,Nordeste,3,28.90
+V032,2025-08-02,Duplo Bacon,Combo,Sudeste,4,32.50
+V033,2025-09-09,X-Burger,Vegano,Norte,1,24.90
+V034,2025-10-16,Smash Especial,Artesanal,Centro-Oeste,2,38.90
+V035,2025-11-23,Batata + Refri,Clássico,Sul,3,22.50
+V036,2025-12-03,Combo Família,Combo,Nordeste,4,69.90
+V037,2025-01-10,Batata + Refri,Combo,Sudeste,1,22.50
+V038,2025-02-17,Combo Família,Vegano,Norte,2,69.90
+V039,2025-03-24,Veggie Burger,Artesanal,Centro-Oeste,3,29.90
+V040,2025-04-04,X-Salada,Clássico,Sul,4,28.90
+V041,2025-05-11,Duplo Bacon,Combo,Centro-Oeste,1,32.50
+V042,2025-06-18,X-Burger,Vegano,Sul,2,24.90
+V043,2025-07-25,Smash Especial,Artesanal,Nordeste,3,38.90
+V044,2025-08-05,Batata + Refri,Clássico,Sudeste,4,22.50
+V045,2025-09-12,Combo Família,Combo,Norte,1,69.90
+V046,2025-10-19,Veggie Burger,Vegano,Centro-Oeste,2,29.90
+V047,2025-11-26,X-Salada,Artesanal,Sul,3,28.90
+V048,2025-12-06,Duplo Bacon,Clássico,Nordeste,4,32.50
+V049,2025-01-13,X-Salada,Clássico,Sudeste,1,28.90
+V050,2025-02-20,Duplo Bacon,Combo,Norte,2,32.50
+V051,2025-03-27,X-Burger,Vegano,Centro-Oeste,3,24.90
+V052,2025-04-07,Smash Especial,Artesanal,Sul,4,38.90
+V053,2025-05-14,Batata + Refri,Clássico,Nordeste,1,22.50
+V054,2025-06-21,Combo Família,Combo,Sudeste,2,69.90
+V055,2025-07-01,Veggie Burger,Vegano,Norte,3,29.90
+V056,2025-08-08,X-Salada,Artesanal,Centro-Oeste,4,28.90
+V057,2025-09-15,Duplo Bacon,Clássico,Sul,1,32.50
+V058,2025-10-22,X-Burger,Combo,Nordeste,2,24.90
+V059,2025-11-02,Smash Especial,Vegano,Sudeste,3,38.90
+V060,2025-12-09,Batata + Refri,Artesanal,Norte,4,22.50
+V061,2025-01-16,Smash Especial,Artesanal,Sudeste,1,38.90
+V062,2025-02-23,Batata + Refri,Clássico,Norte,2,22.50
+V063,2025-03-03,Combo Família,Combo,Centro-Oeste,3,69.90
+V064,2025-04-10,Veggie Burger,Vegano,Sul,4,29.90
+V065,2025-05-17,X-Salada,Artesanal,Nordeste,1,28.90
+V066,2025-06-24,Duplo Bacon,Clássico,Sudeste,2,32.50
+V067,2025-07-04,X-Burger,Combo,Norte,3,24.90
+V068,2025-08-11,Smash Especial,Vegano,Centro-Oeste,4,38.90
+V069,2025-09-18,Batata + Refri,Artesanal,Sul,1,22.50
+V070,2025-10-25,Combo Família,Clássico,Nordeste,2,69.90
+V071,2025-11-05,Veggie Burger,Combo,Sudeste,3,29.90
+V072,2025-12-12,X-Salada,Vegano,Norte,4,28.90
+V073,2025-01-19,Veggie Burger,Vegano,Centro-Oeste,1,29.90
+V074,2025-02-26,X-Salada,Artesanal,Sul,2,28.90
+V075,2025-03-06,Duplo Bacon,Clássico,Nordeste,3,32.50
+V076,2025-04-13,X-Burger,Combo,Sudeste,4,24.90
+V077,2025-05-20,Smash Especial,Vegano,Norte,1,38.90
+V078,2025-06-27,Batata + Refri,Artesanal,Centro-Oeste,2,22.50
+V079,2025-07-07,Combo Família,Clássico,Sul,3,69.90
+V080,2025-08-14,Veggie Burger,Combo,Nordeste,4,29.90
+V081,2025-09-21,X-Salada,Vegano,Sul,1,28.90
+V082,2025-10-01,Duplo Bacon,Artesanal,Nordeste,2,32.50
+V083,2025-11-08,X-Burger,Clássico,Sudeste,3,24.90
+V084,2025-12-15,Smash Especial,Combo,Norte,4,38.90
+V085,2025-01-22,X-Burger,Combo,Centro-Oeste,1,24.90
+V086,2025-02-02,Smash Especial,Vegano,Sul,2,38.90
+V087,2025-03-09,Batata + Refri,Artesanal,Nordeste,3,22.50
+V088,2025-04-16,Combo Família,Clássico,Sudeste,4,69.90
+V089,2025-05-23,Veggie Burger,Combo,Norte,1,29.90
+V090,2025-06-03,X-Salada,Vegano,Centro-Oeste,2,28.90
+V091,2025-07-10,Duplo Bacon,Artesanal,Sul,3,32.50
+V092,2025-08-17,X-Burger,Clássico,Nordeste,4,24.90
+V093,2025-09-24,Smash Especial,Combo,Sudeste,1,38.90
+V094,2025-10-04,Batata + Refri,Vegano,Norte,2,22.50
+V095,2025-11-11,Combo Família,Artesanal,Centro-Oeste,3,69.90
+V096,2025-12-18,Veggie Burger,Clássico,Sul,4,29.90
+V097,2025-01-25,Combo Família,Clássico,Nordeste,1,69.90
+V098,2025-02-05,Veggie Burger,Combo,Sudeste,2,29.90
+V099,2025-03-12,X-Salada,Vegano,Norte,3,28.90
+V100,2025-04-19,Duplo Bacon,Artesanal,Centro-Oeste,4,32.50
+V101,2025-05-26,X-Burger,Clássico,Norte,1,24.90
+V102,2025-06-06,Smash Especial,Combo,Centro-Oeste,2,38.90
+V103,2025-07-13,Batata + Refri,Vegano,Sul,3,22.50
+V104,2025-08-20,Combo Família,Artesanal,Nordeste,4,69.90
+V105,2025-09-27,Veggie Burger,Clássico,Sudeste,1,29.90
+V106,2025-10-07,X-Salada,Combo,Norte,2,28.90
+V107,2025-11-14,Duplo Bacon,Vegano,Centro-Oeste,3,32.50
+V108,2025-12-21,X-Burger,Artesanal,Sul,4,24.90
+V109,2025-01-01,Duplo Bacon,Artesanal,Nordeste,1,32.50
+V110,2025-02-08,X-Burger,Clássico,Sudeste,2,24.90
+V111,2025-03-15,Smash Especial,Combo,Norte,3,38.90
+V112,2025-04-22,Batata + Refri,Vegano,Centro-Oeste,4,22.50
+V113,2025-05-02,Combo Família,Artesanal,Sul,1,69.90
+V114,2025-06-09,Veggie Burger,Clássico,Nordeste,2,29.90
+V115,2025-07-16,X-Salada,Combo,Sudeste,3,28.90
+V116,2025-08-23,Duplo Bacon,Vegano,Norte,4,32.50
+V117,2025-09-03,X-Burger,Artesanal,Centro-Oeste,1,24.90
+V118,2025-10-10,Smash Especial,Clássico,Sul,2,38.90
+V119,2025-11-17,Batata + Refri,Combo,Nordeste,3,22.50
+V120,2025-12-24,Combo Família,Vegano,Sudeste,4,69.90
+V121,2025-01-04,Batata + Refri,Vegano,Nordeste,1,22.50
+V122,2025-02-11,Combo Família,Artesanal,Sudeste,2,69.90
+V123,2025-03-18,Veggie Burger,Clássico,Norte,3,29.90
+V124,2025-04-25,X-Salada,Combo,Centro-Oeste,4,28.90
+V125,2025-05-05,Duplo Bacon,Vegano,Sul,1,32.50
+V126,2025-06-12,X-Burger,Artesanal,Nordeste,2,24.90
+V127,2025-07-19,Smash Especial,Clássico,Sudeste,3,38.90
+V128,2025-08-26,Batata + Refri,Combo,Norte,4,22.50
+V129,2025-09-06,Combo Família,Vegano,Centro-Oeste,1,69.90
+V130,2025-10-13,Veggie Burger,Artesanal,Sul,2,29.90
+V131,2025-11-20,X-Salada,Clássico,Nordeste,3,28.90
+V132,2025-12-27,Duplo Bacon,Combo,Sudeste,4,32.50
+V133,2025-01-07,X-Salada,Combo,Norte,1,28.90
+V134,2025-02-14,Duplo Bacon,Vegano,Centro-Oeste,2,32.50
+V135,2025-03-21,X-Burger,Artesanal,Sul,3,24.90
+V136,2025-04-01,Smash Especial,Clássico,Nordeste,4,38.90
+V137,2025-05-08,Batata + Refri,Combo,Sudeste,1,22.50
+V138,2025-06-15,Combo Família,Vegano,Norte,2,69.90
+V139,2025-07-22,Veggie Burger,Artesanal,Centro-Oeste,3,29.90
+V140,2025-08-02,X-Salada,Clássico,Sul,4,28.90
+V141,2025-09-09,Duplo Bacon,Combo,Centro-Oeste,1,32.50
+V142,2025-10-16,X-Burger,Vegano,Sul,2,24.90
+V143,2025-11-23,Smash Especial,Artesanal,Nordeste,3,38.90
+V144,2025-12-03,Batata + Refri,Clássico,Sudeste,4,22.50
+V145,2025-01-10,Smash Especial,Clássico,Norte,1,38.90
+V146,2025-02-17,Batata + Refri,Combo,Centro-Oeste,2,22.50
+V147,2025-03-24,Combo Família,Vegano,Sul,3,69.90
+V148,2025-04-04,Veggie Burger,Artesanal,Nordeste,4,29.90
+V149,2025-05-11,X-Salada,Clássico,Sudeste,1,28.90
+V150,2025-06-18,Duplo Bacon,Combo,Norte,2,32.50
+V151,2025-07-25,X-Burger,Vegano,Centro-Oeste,3,24.90
+V152,2025-08-05,Smash Especial,Artesanal,Sul,4,38.90
+V153,2025-09-12,Batata + Refri,Clássico,Nordeste,1,22.50
+V154,2025-10-19,Combo Família,Combo,Sudeste,2,69.90
+V155,2025-11-26,Veggie Burger,Vegano,Norte,3,29.90
+V156,2025-12-06,X-Salada,Artesanal,Centro-Oeste,4,28.90
+V157,2025-01-13,Veggie Burger,Artesanal,Sul,1,29.90
+V158,2025-02-20,X-Salada,Clássico,Nordeste,2,28.90
+V159,2025-03-27,Duplo Bacon,Combo,Sudeste,3,32.50
+V160,2025-04-07,X-Burger,Vegano,Norte,4,24.90
+V161,2025-05-14,Smash Especial,Artesanal,Sudeste,1,38.90
+V162,2025-06-21,Batata + Refri,Clássico,Norte,2,22.50
+V163,2025-07-01,Combo Família,Combo,Centro-Oeste,3,69.90
+V164,2025-08-08,Veggie Burger,Vegano,Sul,4,29.90
+V165,2025-09-15,X-Salada,Artesanal,Nordeste,1,28.90
+V166,2025-10-22,Duplo Bacon,Clássico,Sudeste,2,32.50
+V167,2025-11-02,X-Burger,Combo,Norte,3,24.90
+V168,2025-12-09,Smash Especial,Vegano,Centro-Oeste,4,38.90
+V169,2025-01-16,X-Burger,Vegano,Sul,1,24.90
+V170,2025-02-23,Smash Especial,Artesanal,Nordeste,2,38.90
+V171,2025-03-03,Batata + Refri,Clássico,Sudeste,3,22.50
+V172,2025-04-10,Combo Família,Combo,Norte,4,69.90
+V173,2025-05-17,Veggie Burger,Vegano,Centro-Oeste,1,29.90
+V174,2025-06-24,X-Salada,Artesanal,Sul,2,28.90
+V175,2025-07-04,Duplo Bacon,Clássico,Nordeste,3,32.50
+V176,2025-08-11,X-Burger,Combo,Sudeste,4,24.90
+V177,2025-09-18,Smash Especial,Vegano,Norte,1,38.90
+V178,2025-10-25,Batata + Refri,Artesanal,Centro-Oeste,2,22.50
+V179,2025-11-05,Combo Família,Clássico,Sul,3,69.90
+V180,2025-12-12,Veggie Burger,Combo,Nordeste,4,29.90
+V181,2025-01-19,Combo Família,Combo,Sul,1,69.90
+V182,2025-02-26,Veggie Burger,Vegano,Nordeste,2,29.90
+V183,2025-03-06,X-Salada,Artesanal,Sudeste,3,28.90
+V184,2025-04-13,Duplo Bacon,Clássico,Norte,4,32.50
+V185,2025-05-20,X-Burger,Combo,Centro-Oeste,1,24.90
+V186,2025-06-27,Smash Especial,Vegano,Sul,2,38.90
+V187,2025-07-07,Batata + Refri,Artesanal,Nordeste,3,22.50
+V188,2025-08-14,Combo Família,Clássico,Sudeste,4,69.90
+V189,2025-09-21,Veggie Burger,Combo,Norte,1,29.90
+V190,2025-10-01,X-Salada,Vegano,Centro-Oeste,2,28.90
+V191,2025-11-08,Duplo Bacon,Artesanal,Sul,3,32.50
+V192,2025-12-15,X-Burger,Clássico,Nordeste,4,24.90
+V193,2025-01-22,Duplo Bacon,Clássico,Sudeste,1,32.50
+V194,2025-02-02,X-Burger,Combo,Norte,2,24.90
+V195,2025-03-09,Smash Especial,Vegano,Centro-Oeste,3,38.90
+V196,2025-04-16,Batata + Refri,Artesanal,Sul,4,22.50
+V197,2025-05-23,Combo Família,Clássico,Nordeste,1,69.90
+V198,2025-06-03,Veggie Burger,Combo,Sudeste,2,29.90
+V199,2025-07-10,X-Salada,Vegano,Norte,3,28.90
+V200,2025-08-17,Duplo Bacon,Artesanal,Centro-Oeste,4,32.50
